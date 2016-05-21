@@ -227,11 +227,6 @@
 [OVERRIDE:152:I:TOOL:TOOL:17:main:63]
 # Stepladder
 [OVERRIDE:210:I:TOOL:TOOL:18:main:64]
-
-###########
-# Writing #
-###########
-
 # Scroll Roller
 [OVERRIDE:234:I:TOOL:TOOL:19:main:110]
 # Book Binding
@@ -241,6 +236,11 @@
 # Quire
 [OVERRIDE:167:I:TOOL:TOOL:22:main:113]
 # Bookcase - Tool 23 - Skip, original is good
+# Helve
+[OVERRIDE:92:I:TOOL:TOOL:24:main:134]
+# Stone Axe
+[OVERRIDE:47:I:TOOL:TOOL:25:main:135]
+
 
 ########
 # Toys #
